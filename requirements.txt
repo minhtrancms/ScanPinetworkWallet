@@ -1,0 +1,8 @@
+mnemonic
+eth-account
+web3
+pyinstaller
+bip32utils
+requests
+stellar-sdk
+bip_utils
